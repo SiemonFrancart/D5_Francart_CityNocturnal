@@ -19,3 +19,6 @@ Link to figma prototype
 
 CityNocturnal_Poster.pdf<br>
 Post in PDF A3 format colors CMYK
+
+CityNocturnal_Sticker.svg<br>
+Sticker in SVG format 50mm x 50mm
